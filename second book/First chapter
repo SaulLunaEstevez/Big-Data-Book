@@ -1,0 +1,33 @@
+# Questions
+
+1.- What is a Human error?
+  R= 
+Human action or inaction that unintentionally results in the alteration of the functions of the system or the data, in the acquisition 
+by an unauthorized knowledge entity of sensitive data or in the unintentional deactivation of a system component
+  
+2.- Give me an example of Human error
+  R= write pirnt instead of print
+
+3.- What is a software error?
+  R= It is a problem in a computer program or software system that triggers an unwanted result.
+
+4.- Give me an example of software error
+  R= A software bug that causes every instance of an application server to crash when given a particular bad input.
+
+5.- What are the components that a software system have to have?
+  R= Reliability, Scalability and Maintainability
+  
+6.- What is the importance of reliability?
+  R= Because productivity drops in the long run, causing money to be wasted, plus people don't like to experience mistakes, which would 
+  also make profits go down
+  
+  7.- What are the 3 principles of software systems?
+    R= Operability, Simplicity and Evolvability
+  
+  8.- What is MTTF?
+    R= Mean Time To Failure (MTTF) is a very basic measure of reliability used for non-repairable systems. It represents the length of 
+    time that an item is expected to last in operation until it fails
+ 
+ 9.- What is TDD
+  R= The purpose of test-driven development is to achieve clean code that works. The idea is that the requirements are translated into 
+  tests, in this way, when the tests pass, it will guarantee that the software complies with the requirements that have been established
