@@ -1,5 +1,5 @@
 # Questions
-1.- Advantages of append-only logs
+1.- Advantages of append-only logs\n
   R= Appending and segment merging are sequential write operations, which are generally much faster than random writes, especially on magnetic spinning-disk hard drives.
   To some extent sequential writes are also preferable on flash-based solid state drives (SSDs).
   
