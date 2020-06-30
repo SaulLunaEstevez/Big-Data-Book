@@ -22,4 +22,7 @@ document). Since a pointer wouldn’t make sense to any other process, this
   R= It is the concept that refers to the fact that the schemas, with the passage of time, change
   
  6.- What is Avro?
-  R= 
+  R= is another binary encoding format that is interestingly different from Protocol Buffers and Thrift
+ 
+ 7.- What is writer's schema?
+  R= With Avro, when an application wants to encode some data (to write it to a file or database, to send it over the network, etc.), it encodes the data using whatever version of the schema it knows about
