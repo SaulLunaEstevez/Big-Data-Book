@@ -1,5 +1,5 @@
 # Questions
-1.- What is a log?
+1- What is a log?
   R= Is an append-only data file
 
 2.- Advantages of append-only logs.
